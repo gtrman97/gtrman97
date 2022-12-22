@@ -2,9 +2,9 @@
 <br>
 
 <b>About Me</b>
-<p align="center">I am Software Engineer with a background in music. Software Development combines two of my interests and goals I am passionate about - being creative and leveraging technology to make people's lives better. I find satisfaction in building responsive applications that are user friendly, optimize user experience, and increase accessibility.</p>
+<p>I am Software Engineer with a background in music. Software Development combines two of my interests and goals I am passionate about - being creative and leveraging technology to make people's lives better. I find satisfaction in building responsive applications that are user friendly, optimize user experience, and increase accessibility.</p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=gtrman97" alt="profile views" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=gtrman97" alt="profile views" /></p>
 
 <b>My GitHub Stats</b>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gtrman97&hide=stars,prs&show_icons=true&theme=react" alt="GitHub stats" /></p>
