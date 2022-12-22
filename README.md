@@ -1,3 +1,5 @@
+<h1>Hi, I'm Andrew :wave:</h1>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=gtrman97" alt="profile views" /></p>
 
 <b>My GitHub Stats</b>
