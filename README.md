@@ -7,9 +7,13 @@
 <p><img src="https://komarev.com/ghpvc/?username=gtrman97" alt="profile views" /></p>
 
 <b>My GitHub Stats</b>
+
 <p><img src="https://github-readme-stats.vercel.app/api?username=gtrman97&hide=stars,prs&show_icons=true&theme=react" alt="GitHub stats" /></p>
-  <p><img src="https://streak-stats.demolab.com?user=gtrman97&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Andrew's GitHub streak stats" /></p
+
+<p><img src="https://streak-stats.demolab.com?user=gtrman97&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="GitHub streak stats" /></p
   
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtrman97&theme=react&border_radius=5" alt="GitHub most used languages stats" /></p
+    
 <b>Languages and Tools</b>
 <br>
 <p>
