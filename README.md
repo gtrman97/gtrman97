@@ -10,7 +10,7 @@ I am a Software Engineer that focuses on front end frameworks such as React. I h
 
 <b>My GitHub Stats</b>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=gtrman97&hide=stars,prs&show_icons=true&theme=react" alt="GitHub stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=gtrman97&hide=issues,prs&show_icons=true&theme=react" alt="GitHub stats" /></p>
 
 <p><img src="https://streak-stats.demolab.com?user=gtrman97&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="GitHub streak stats" /></p
 
