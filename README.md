@@ -3,7 +3,7 @@
 
 <b>About Me</b>
 <p>
-I am a Software Engineer that focuses on front end frameworks such as React. I have a love for Design Systems, Web Accessibility and Serverless Technologies such as AWS. To grow my skills, I focus on building full stack applications.
+As a front end developer, I focus on HTML, CSS, Javascript and React as this specifically applies to the UI. I am passionate about providing an engaging and memorable user experience. I am a motivated individual who seeks to utilize my creative abilities to grow as a person and employee. I love generating new ideas and seeing them through to completion. My greatest assets are organization, communication and the ability to learn quickly. 
 </p>
 
 <p><img src="https://komarev.com/ghpvc/?username=gtrman97" alt="profile views" /></p>
