@@ -8,13 +8,6 @@ As a front end developer, I focus on HTML, CSS, Javascript and React as this spe
 
 <p><img src="https://komarev.com/ghpvc/?username=gtrman97" alt="profile views" /></p>
 
-<b>My GitHub Stats</b>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=gtrman97&hide=issues,prs&show_icons=true&theme=react" alt="GitHub stats" /></p>
-
-<!-- <p><img src="https://streak-stats.demolab.com?user=gtrman97&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="GitHub streak stats" /></p> -->
-
-    
 <b>Languages and Tools</b>
 <br>
 <p>
