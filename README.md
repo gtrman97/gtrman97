@@ -3,8 +3,7 @@
 
 <b>About Me</b>
 <p>
-As a front end developer, I focus on HTML, CSS, Javascript and React as this specifically applies to the UI. I am passionate about providing an engaging and memorable user experience. I am a motivated individual who seeks to utilize my creative abilities to grow as a person and employee. I love generating new ideas and seeing them through to completion. My greatest assets are organization, communication and the ability to learn quickly. 
-</p>
+As a QA Engineer, I focus on Python, Selenium, and API testing to ensure software is reliable before it reaches users. I love building automated systems that catch problems early and give teams confidence to ship. I take testing seriously as its own craft, not just a final checkbox. My greatest assets are attention to detail, clear technical communication, and the ability to learn new tools and systems quickly.</p>
 
 <p><img src="https://komarev.com/ghpvc/?username=gtrman97" alt="profile views" /></p>
 
