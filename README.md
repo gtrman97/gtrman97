@@ -2,8 +2,7 @@
 <br>
 
 <b>About Me</b>
-<p>
-As a QA Engineer, I focus on Python, Selenium, and API testing to ensure software is reliable before it reaches users. I love building automated systems that catch problems early and give teams confidence to ship. I take testing seriously as its own craft, not just a final checkbox. My greatest assets are attention to detail, clear technical communication, and the ability to learn new tools and systems quickly.</p>
+<p> As a software engineer, I work across the stack, from responsive frontends and API integrations to backend services in Python and Flask. I've built automation that saves teams real hours, debugged tricky production issues, and more recently engineered prompts and evaluation frameworks for LLMs. I like solving problems that quietly make things run smoother, whether that's a cleaner API integration or a script that replaces a manual process.</p>
 
 <p><img src="https://komarev.com/ghpvc/?username=gtrman97" alt="profile views" /></p>
 
